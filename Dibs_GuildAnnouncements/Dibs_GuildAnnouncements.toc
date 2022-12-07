@@ -1,0 +1,7 @@
+## Interface: 44300
+## Title: Dibs_GuildAnnouncments
+## Version: 1.1
+## Author: Dibs
+## Notes: /ga to configure guild messages
+## SavedVariables: rate, messages
+core_guildannouncements.lua
